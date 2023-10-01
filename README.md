@@ -1,5 +1,5 @@
-<h1 align="center">🌐 The World Wise 🌐 </h1> 
-
+<h1 align="center">🍕 The Fast React Pizza 🍕 </h1> 
+ 
 <div align="center">
 <img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/>
 <img src="https://img.shields.io/badge/react-v18.2.0-blue?logo=react"/>
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/reduxtoolkit-v1.9.5-purple?logo=redux"/>
 </div>  
 
-<p align="center">The World Wise is a web app, that helps you to not lose track of countries that u visited thru out of your journey across the world.</p>
+<p align="center">The Fast React Pizza is an app, that that has a variety of different pizzas so everyone can find his favorite pizza to order</p>
 
 <div align="center">
   

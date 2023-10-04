@@ -27,7 +27,8 @@
 
 ## Screenshot
 
-![Screenshot 2023-09-30 165057](https://github.com/AleksandarSarbajic/react-quiz/assets/114814838/1ee5c5a4-14a4-4630-b0ae-ae3597da1896)
+![First look on the page](https://github.com/AleksandarSarbajic/fast-react-pizza/assets/114814838/d702c58c-2dd3-4e6f-809f-a9609b0bac6f)
+
 
 ## Quicstart
 
@@ -52,6 +53,38 @@ $ npm run start
 
 
 ## How It Works
+
+On the landing page you first enter your full name then you can start ordering, or in the top right corner you can search and order
+
+![First look on the page](https://github.com/AleksandarSarbajic/fast-react-pizza/assets/114814838/d702c58c-2dd3-4e6f-809f-a9609b0bac6f)
+
+### Main menu
+
+When we entered the name, we get list of pizzas that can be ordered.
+On click of the button "add to cart" we can choose the amount of pizzas we want or if we want to delete it
+
+![Image of the pizzas](https://github.com/AleksandarSarbajic/fast-react-pizza/assets/114814838/82723173-aa94-4c2e-b8d5-45cb128831b2)
+
+### Cart page
+
+When we click to go to court, we go to the cart's page, where we can raise or lower the amount of certain pizza and delete the whole item if we want.
+By clicking clear cart we empty the whole cart and to go menu.
+When we click on order pizzas, we go to the checkout page
+
+![go to cart](https://github.com/AleksandarSarbajic/fast-react-pizza/assets/114814838/b451d671-176d-467c-8eb6-54b257f36671)
+
+### Checkout page
+
+On checkout page we need to enter credentials, and by clicking getposition button we can ask for your address or you can manually enter it.
+If u check the priority you will get your order faster, but you will pay 20% more for the price.
+
+![Checkout page](https://github.com/AleksandarSarbajic/fast-react-pizza/assets/114814838/f9c115c9-7d29-44d9-ae9b-bbe15d69138d)
+
+### Overview page
+
+On this page you can see your order, price to pay and minutes left for delivery
+
+![Screenshot 2023-10-04 161841](https://github.com/AleksandarSarbajic/fast-react-pizza/assets/114814838/6942f65b-76fa-4e34-9415-e70a351a424a)
 
 
 
